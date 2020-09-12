@@ -9,7 +9,7 @@
   "dependencies": {
     "axios": "^0.18.1",
     "load-config": "file:../local_modules/load_config",
-    "node-fetch": "^2.3.0"
+    "node-fetch": "^2.6.1"
   },
   "scripts": {
     "test": "mocha tests/unit/"
